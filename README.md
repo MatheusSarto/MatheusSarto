@@ -11,7 +11,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSarto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div>
-  <img align="right" alt="Yoshaaa" src= "https://cdn.discordapp.com/attachments/356900332250595338/1035636113936748585/dbfz-vegito.gif">
+  <img align="right" alt="Yoshaaa" width = 249  height = 140  src= "https://cdn.discordapp.com/attachments/356900332250595338/1035636113936748585/dbfz-vegito.gif">
   ##
   
 </div>
