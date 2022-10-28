@@ -1,8 +1,4 @@
 ### Olá, sou Matheus Sarto 
-<div style="display: inline_block"><br>
-<img align="center" alt="Yoshaaa"   src= "https://cdn.discordapp.com/attachments/356900332250595338/1035636113936748585/dbfz-vegito.gif">
-</div>
-
 - 📚 Cursando análise e desenvolvimento de sistemas - PUCPR
 - 🎮 Game dev
 - 📱 Desenvolvendo um aplicativo mobile ( Flutter )
@@ -13,8 +9,11 @@
   <a href="https://github.com/MatheusSarto">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MatheusSarto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSarto&layout=compact&langs_count=7&theme=tokyonight"/>
+    <div style="display: inline_block"><br>
+        <img align="center" alt="Yoshaaa"  height = 224 width = 398 src= "https://cdn.discordapp.com/attachments/356900332250595338/1035636113936748585/dbfz-vegito.gif">
+    </div>
 </div>
- 
+  
 <br>
 <br>
  Conhecimento em :
