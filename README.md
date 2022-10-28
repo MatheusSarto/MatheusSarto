@@ -9,9 +9,7 @@
   <a href="https://github.com/MatheusSarto">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MatheusSarto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSarto&layout=compact&langs_count=7&theme=tokyonight"/>
-    <div style="display: inline_block"><br>
         <img align="center" alt="Yoshaaa"  height = 224 width = 398 src= "https://cdn.discordapp.com/attachments/356900332250595338/1035636113936748585/dbfz-vegito.gif">
-    </div>
 </div>
   
 <br>
@@ -28,9 +26,12 @@
 <img align="center" alt="Matheus-GIT" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="Matheus-GIT" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
+<div>
+  
   ##
   
-  <div>
+</div>
+<div>
    <a href="https://www.linkedin.com/in/matheus-sarto-53479b193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      <a href="https://sartop.itch.io" target="_blank"><img src=https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white target="_blank"></a> 
-  </div>
+</div>
