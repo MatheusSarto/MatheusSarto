@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-<img align="center" alt="Yoshaaa"   src= "https://discord.com/channels/356900310540746753/356900332250595338/1035636114310049852">
+<img align="center" alt="Yoshaaa"   src= "https://cdn.discordapp.com/attachments/356900332250595338/1035636113936748585/dbfz-vegito.gif">
 </div>
 ### Olá, sou Matheus Sarto 
 
