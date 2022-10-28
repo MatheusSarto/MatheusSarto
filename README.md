@@ -1,9 +1,12 @@
+<div style="display: inline_block"><br>
+<img align="center" alt="Yoshaaa"   src= "https://discord.com/channels/356900310540746753/356900332250595338/1035636114310049852">
+</div>
 ### Olá, sou Matheus Sarto 
 
 - 📚 Cursando análise e desenvolvimento de sistemas - PUCPR
-- 🌱 Estudando C e API's com C#.
-- 🤔 Buscando novos conhecimentos na área da tecnologia.
-- ⚡ Fun fact: das tecnologias que ja tive contato, a que mais gosto é C ! ! !
+- 🎮 Game dev
+- 📱 Desenvolvendo um aplicativo mobile ( Flutter )
+- 🧡 C++
 
 
 <div align="center">
@@ -26,7 +29,6 @@
 <img align="center" alt="Matheus-GIT" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="Matheus-GIT" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
-  
   ##
   
   <div>
