@@ -11,7 +11,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSarto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  <img align="right" alt="Yoshaaa" width = 249  height = 140  src= "https://cdn.discordapp.com/attachments/356900332250595338/1035636113936748585/dbfz-vegito.gif">
+  <img align="right" alt="Yoshaaa" width = 249  height = 140  src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fippo-hajimenoippo-sendo-boxing-anime-gif-5246942&psig=AOvVaw2Gpu51cb_CHG2USafSvfdy&ust=1678813143072000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCKjruw2f0CFQAAAAAdAAAAABAS">
 <div>
     
   ##
