@@ -1,8 +1,8 @@
 ### Olá, sou Matheus Sarto 
 - 📚 Análise e desenvolvimento de sistemas - PUCPR ( Formado )
-- 🎮 Game dev
-- 📱 Desenvolvendo um aplicativo mobile ( Flutter )
-- 🧡 C++
+- ☕ Desenvolvedor JAVA
+- 📱 Desenvolvendor mobile ( Flutter )
+- 🎮 Game dev ( C++/C# )
 
 
 <div align="center">
