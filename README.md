@@ -4,7 +4,9 @@ Me chamo Matheus Sarto, desenvolvedor de software e entusiasta em tecnologia e d
 
 # 💯 Sobre mim
 
-Comecei a estudar desenvolvimento e o mundo da tecnologia desde novo, atualmente tenho conhecimentos principais em linguagens como JAVA, C# e C++. Como um pequeno hobby, esporadicamente participo de gamejams e pequenos desenvolvimentos, já participei no desenvolvimento de dois jogos, dos quais apenas um chegou a ser publicado e disponível para download, sendo esse um projeto realizado em um time internacional de desenvolvedores. Sou formado em análise e desenvolvimento de sistemas pela PUCPR, e já tive contato com diferentes tipos de tecnologias e conhecimentos diferentes durante o curso e em minhas experiências como desenvolvedor.
+Comecei a estudar desenvolvimento e o mundo da tecnologia desde novo, atualmente tenho conhecimentos principais em linguagens como JAVA, C# e C++. Sou formado em análise e desenvolvimento de sistemas pela PUCPR, e já tive contato com diferentes tipos de tecnologias e conhecimentos diferentes durante o curso e em minhas experiências como desenvolvedor.
+
+Como um pequeno hobby, esporadicamente participo de gamejams e pequenos desenvolvimentos, já participei no desenvolvimento de dois jogos, dos quais apenas um chegou a ser publicado e disponível para download, sendo esse um projeto realizado em um time internacional de desenvolvedores. 
 
 Em minha carreira profissional, já desenvolvi mais de dois aplicativos mobile utilizando o framework flutter. Não tenho problemas em abraçar responsabilidades e cargos de lideranças, guiando o time da melhor forma possível de acordo com as necessidades do projeto, utilizando de metodologias ágeis para a melhor organização da equipe e do projeto.
 
