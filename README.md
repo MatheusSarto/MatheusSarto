@@ -1,27 +1,17 @@
-# Olá, me chamo Matheus Sarto 
-Sou desenvolvedor backend Jr, formado em análise e desenvolvimento de sistemas pela PUC-PR. 
+#👋 Olá 
+Me chamo Matheus Sarto, desenvolvedor de software e entusiasta em tecnologia e desenvolvimento de sistemas. Sempre busco novos conhecimentos e aprimorar os já estabelecidos. Tenho grande curiosidade pelo desenvolvimento de jogos! 
 
-- 📚 Análise e desenvolvimento de sistemas - PUCPR ( Formado )
-- ☕ Desenvolvedor JAVA
-- 📱 Desenvolvendor mobile ( Flutter )
-- 🎮 Game dev ( C++/C# )
+# 💯 Sobre mim
+Comecei a estudar programação e o mundo da tecnologia desde novo, fui incentivado pelo meu pai e por uma grande vontade de desenvolver jogos, atualmente tenho conhecimentos principais em linguagens como JAVA, C# e C++. O desenvolvimento de jogos, atualmente, é como um pequeno hobby, esporadicamente participo de gamejams e pequenos desenvolvimentos. Sou formado em análise e desenvolvimento de sistemas pela PUCPR, e já tive contato com diferentes tipos de tecnologias e conhecimentos diferentes durante o curso.
 
+Em minha carreira profissional, já desenvolvi mais de dois aplicativos mobile utilizando o framework flutter e também já participei no desenvolvimento de dois jogos, para gamejams, dos quais apenas um chegou a ser publicado e disponível para download. Não tenho problemas em abraçar responsabilidades e cargos de lideranças, guiando o time da melhor forma possível de acordo com as necessidades do projeto, utilizando de metodologias ágeis para a melhor organização da equipe e do projeto. Também já participei do desenvolvimento de um jogo em uma equipe internacional!
 
-<div align="center">
-  <a href="https://github.com/MatheusSarto">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MatheusSarto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSarto&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div>
-    
-  ##
-  
-</div>
-  
+# 💻 Tech Stack
 <br>
 <br>
  Conhecimento em :
+
+ ![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
 <div style="display: inline_block"><br>  
 <img align="center" alt="Matheus-Unreal" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
 <img align="center" alt="Matheus-Cpp" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -35,6 +25,21 @@ Sou desenvolvedor backend Jr, formado em análise e desenvolvimento de sistemas 
 <img align="center" alt="Matheus-GIT" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="Matheus-Flutter" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
+
+<div>
+  ##
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/MatheusSarto">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MatheusSarto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSarto&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
+  
+
 <div>
   
   ##
