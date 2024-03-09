@@ -9,7 +9,6 @@ In my professional career, I have already developed more than two mobile applica
 
 As a small hobby, I sporadically participate in gamejams and small developments. I have already participated in the development of two games, only one of which was published and available for download, and this was a project carried out with an international team of developers.
 
-Translated with DeepL.com (free version)
 
 # 💻 Tech Stack
  ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge) ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) ![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge) ![Unreal Engine Badge](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=fff&style=for-the-badge) ![Unity Badge](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=for-the-badge)
